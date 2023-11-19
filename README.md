@@ -1,7 +1,7 @@
 # CODESOFT
-# Data Science Internship Portfolio
+# Machine learning Internship Portfolio
 
-Welcome to my Data Science Internship Portfolio! This repository is a compilation of projects completed during my internship at Codsoft. Each project serves as a testament to my proficiency in data analysis, machine learning, and creative problem-solving. Below, you'll find a brief overview of the showcased projects:
+Welcome to my Machine learning Internship Portfolio! This repository is a compilation of projects completed during my internship at Codsoft. Each project serves as a testament to my proficiency in data analysis, machine learning, and creative problem-solving. Below, you'll find a brief overview of the showcased projects:
 
 # Project: Credit Card Fraud Detection
 Description: In the Credit Card Fraud Detection project, I developed a machine learning model to identify fraudulent credit card transactions. The project addresses class imbalance, preprocesses data, and uses logistic regression for classification.
